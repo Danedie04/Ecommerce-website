@@ -31,7 +31,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/dk-shop.git
+git clone (https://github.com/Danedie04/Ecommerce-website)
 Navigate to the project directory:
 
 bash
